@@ -74,3 +74,4 @@ instructie (Draai naar rechts) er nog steeds noord (N) staat, terwijl dat hier o
 dit wordt gecompenseerd door het feit dat in instructie 5 je terug naar links gaat (dus terug richting het noorden).
 Voor de rest is alles correct en mist er niets.
 
+- Tests zijn te vinden in tests/helicopter.py
